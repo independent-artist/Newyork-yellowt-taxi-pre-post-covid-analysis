@@ -13,3 +13,10 @@ You are asked to analyse this data to provide insights about the taxi market of 
 Do a short and preliminary analysis on the data.
 
 You can find the data and the relevant information about Yellow Taxi dataset here - https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Worked with Taxi & Limousine Commission’s Yellow taxi dataset of  Feb 2020 (pre) & June 2020 (post) covid pandemic scenario.(Data contains 18 columns & around Feb 6,200,000 rows | Jun 500,000 rows)
+
+Cleaned data & applied missing data handling techniques using Pandas, followed by visualization using seaborn & matplotlib.
+
+Taxi booking is reduced by 92.06%, mostly the booking time is dropping after 6 PM in (June) post covid.
+
